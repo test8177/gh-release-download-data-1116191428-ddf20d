@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+id > "$RUNNER_TEMP/release-download-cade64a975-${EXECUTION_CASE}-id"
